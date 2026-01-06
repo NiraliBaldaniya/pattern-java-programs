@@ -41,3 +41,19 @@ class diamond{
     }
 
 }
+
+
+
+//output:
+
+
+//enter number :
+//5
+
+
+//   *
+//  ***
+// *****
+//  ***
+//   *
+
