@@ -32,6 +32,7 @@ class hollobox{
     }
 }
 
+
 //output:
 
 // enter number :
